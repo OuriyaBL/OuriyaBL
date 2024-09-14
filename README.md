@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi hi! Welcome to my profile!
+My name is Ouriya Boshi Levine 
+
+- 🏫 I am currently an undergraduate student at the University of Rochester ('27) 
+- 🖥️ Planning to double major in a BS of CS and BA of Digital Media Studies
+- 🏠 Residing in Queens, New York
+- 📙 I know: Java, C/C++, Pythonm, HTML, Javascript and GML
+- 📫 Reach me at: oboshile@u.rochester.edu
 
 <!--
 **OuriyaBL/OuriyaBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
