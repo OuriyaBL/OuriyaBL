@@ -1,4 +1,4 @@
-## Hi hi! Welcome to my profile!
+## Hello! Welcome to my profile!
 My name is Ouriya Boshi Levine 
 
 - 🏫 I am currently an undergraduate student at the University of Rochester ('27) 
