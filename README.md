@@ -2,9 +2,10 @@
 My name is Ouriya Boshi Levine 
 
 - 🏫 I am currently an undergraduate student at the University of Rochester ('27) 
-- 🖥️ Planning to double major in a BS of CS and BS in Brain and Cognitive Science
+- 🖥️ Planning to double major in a BS of CS and BS in Brain and Cognitive Science & Japanese minor
 - 🏠 Residing in Queens, New York
 - 📙 I know: Java, C/C++, Pythonm, HTML, Javascript and GML
+- 🧠 Interested in Brain Computer Interfaces (BCI) and neural decoding softwares
 - 📫 Reach me at: oboshile@u.rochester.edu
 
 <!--
